@@ -24,6 +24,9 @@ const calculate = (operation, num1, num2) => {
         case 'subtract': return num1 - num2;
         case 'multiply': return num1 * num2;
         case 'divide': return num2 !== 0 ? num1 / num2 : 'Cannot divide by zero';
+        case 'exponentiate': return Math.pow(num1, num2);
+        case 'modulo': return num1 % num2;
+        case 'sqrt': return num1 >= 0 ? Math.sqrt(num1) : 'Cannot take square root of a negative number';
         default: return 'Invalid operation';
     }
 };
