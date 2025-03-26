@@ -12,3 +12,9 @@
 {"level":"error","message":"Invalid numbers provided","service":"calculator-microservice"}
 {"level":"info","message":"New add operation requested: 20 add 15","service":"calculator-microservice"}
 {"level":"error","message":"Invalid numbers provided","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers provided","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers provided","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers provided","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers provided","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers provided","service":"calculator-microservice"}
+{"level":"error","message":"Invalid numbers provided","service":"calculator-microservice"}
